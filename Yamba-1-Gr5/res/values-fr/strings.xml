@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yamba-1-Gr5</string>    
+    <string name="action_settings">Paramètres</string>
+    <string name="title_1">Caractères restants:</string>
+    <string name="characters">118</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="status">¿Ce qui se passe?</string>
+    <string name="result">défaut dafficher dans le yamba de service</string>
+    <string name="made">Fait par:</string>
+    <string name="developer_1">Edwin Alejandro Taborda Marín</string>
+    <string name="developer_2">Juan Pablo Noreña</string>
+    <string name="group">Groupe 5 - Informatique mobile - UdeA - 2014</string>
+</resources>
